@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-하이 하이 삼하이 사하이
+젠킨스를 사용해 봅니다
 </body>
 </html>
