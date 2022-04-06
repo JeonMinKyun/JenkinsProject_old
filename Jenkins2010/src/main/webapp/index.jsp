@@ -1,10 +1,8 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-하이 하이
-20211210 젠킨스 실습<br>
+좋아요 젠킨스 자동으로 가져와요
 
-Happy New Year
 
 </body>
 </html>
