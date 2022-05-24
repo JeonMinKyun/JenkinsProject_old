@@ -116,5 +116,6 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+eclipse_web_2020_09/
 
 # End of https://www.toptal.com/developers/gitignore/api/maven,eclipse,dbeaver,java
